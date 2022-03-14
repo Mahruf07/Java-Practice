@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-//This code prints to random numbers and asks user to input the summation of the 2 numbers 5 times and give points based on the inputs
+//This code prints two random numbers and asks user to input the summation of the 2 numbers 5 times and give points based on the inputs
 
 public class mathQuiz {
     public static void main(String[] args){
